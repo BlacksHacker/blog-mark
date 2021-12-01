@@ -16,7 +16,7 @@
     
     
    - 其脱敏规则如下
-    ![脱敏规则](src/)
+    ![脱敏规则](src/main/resources/image/encrypt/Sharding-encrypt.png)
     
     
    - 数据源配置，为常规数据源配置
